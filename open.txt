@@ -1,0 +1,12 @@
+Utilities > Perwalian
+Custom Utilities: > Perwalian:
+Colors > Data Mahasiswa (need table)
+Borders > jadwal perwalian
+Animations >  Live Chat
+
+components > Pesan
+Buttons > Acc Mahasiswa
+Card > Pesan Untuk mahasiswa
+
+pages > Other
+remove register

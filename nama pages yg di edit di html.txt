@@ -1,0 +1,17 @@
+Pesan > Components
+Buttons > Acc Mahasiswa
+Cards > Pesan Untuk Mahasiswa
+
+Utilities > Perwalian
+Colors > Data Mahasiswa
+Borders > Jadwal Perwalian
+Animations > Live Chat
+
+MUH1B3	Kalkulus IB			3		D
+LUH1A2	Bahasa Indonesia		2		C
+DUH1A2	Literasi TIK			2		D
+CSH1F2	Pengantar Teknik Informatika	2		D
+CCH1A4	Dasar Algoritma dan Pemrograman	3	1	D
+MSH1B3	Logika Matematika A		3		D
+CSH1A2	Pembentukan Karakter		2		D
+
