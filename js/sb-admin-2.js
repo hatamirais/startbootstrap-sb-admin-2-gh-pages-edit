@@ -45,5 +45,14 @@
     }, 1000, 'easeInOutExpo');
     e.preventDefault();
   });
-
+    
+    // Alert on Click
+    $(document).ready(function(){
+        $('button').click(function(){
+            $('.alert').show()
+        }) 
+    });
+    
+$('#mainTable').bootstrapTable({
+});
 })(jQuery); // End of use strict

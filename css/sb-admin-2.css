@@ -5582,6 +5582,10 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #18181c;
 }
 
+.alert{
+  display:none;
+}
+
 @-webkit-keyframes progress-bar-stripes {
   from {
     background-position: 1rem 0;
@@ -10521,6 +10525,11 @@ a.text-dark:hover, a.text-dark:focus {
   .container {
     min-width: 992px !important;
   }
+
+.bold-blue {
+	font-weight: bold;
+	color: #0277BD;
+}
   .navbar {
     display: none;
   }
